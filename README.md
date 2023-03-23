@@ -1,5 +1,5 @@
 > Autor: María Sofía Fregona <p>
-> Estado: **EN PROCESO..**
+> Estado: **EN PROCESO..** 
 
 # Segmentación de clientes <p>
 
